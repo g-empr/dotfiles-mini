@@ -1,5 +1,4 @@
 # dotfiles
-===============
 ## usage
 
 1. `git clone [this repo]`
