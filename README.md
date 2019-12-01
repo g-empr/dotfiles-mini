@@ -1,15 +1,11 @@
-dotfiles mini
+# dotfiles
 ===============
+## usage
 
-Include a no plugin dotfiles.
-Can be used quickly.
-
-## HOWTO ##
-
-1. `git clone xxx`
+1. `git clone [this repo]`
 2. `./bin/dotsinstall.sh`
 
-## Features ##
+## features
 
 - bash
 - vim
@@ -18,8 +14,5 @@ Can be used quickly.
 - gdb
 - utility tools
 
-## RELEASE NOTE ##
-
-2014/12/19 first release
-
-
+## 元データ
+https://qiita.com/yutakatay/items/c6c7584d9795799ee164
